@@ -6,7 +6,12 @@ packages:
 catalogMode: prefer
 
 catalog:
+  '@ant-design/cssinjs': ^2.1.2
+  '@ant-design/icons': ~6.3.4
+  "@tailwindcss/vite": ^4.3.3
   "@types/node": ^24
+  antd: ^6.6.2
+  tailwindcss: ^4.3.3
   typescript: ^7.0.2
   vite: npm:@voidzero-dev/vite-plus-core@0.3.0
   vite-plus: 0.3.0
