@@ -1,0 +1,17 @@
+{
+  "name": "survey-api",
+  "type": "module",
+  "imports": {
+    "#*": "./*"
+  },
+  "scripts": {
+    "build": "nitro build",
+    "dev": "nitro dev",
+    "preview": "nitro preview"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "nitro": "latest",
+    "typescript": "latest"
+  }
+}

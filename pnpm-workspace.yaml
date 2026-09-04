@@ -1,13 +1,14 @@
 packages:
   - apps/*
+  - services/*
   - packages/*
   - tools/*
 
 catalogMode: prefer
 
 catalog:
-  '@ant-design/cssinjs': ^2.1.2
-  '@ant-design/icons': ~6.3.4
+  "@ant-design/cssinjs": ^2.1.2
+  "@ant-design/icons": ~6.3.4
   "@tailwindcss/vite": ^4.3.3
   "@types/node": ^24
   antd: ^6.6.2
